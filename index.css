@@ -1,0 +1,38 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body{
+	font-family: 'Montserrat', sans-serif;
+
+
+}
+#Profile-pic{
+	border-radius: 50%;
+	height: 200px;
+	width: 230px;
+	
+}
+,btn{
+	border: 3px solid whitesmoke;
+}
+div > h1{
+	font-weight: 700;
+}
+div > h5{
+	font-weight: 700;
+}
+div > h6 {
+	font-weight: 700;
+}
+#Me{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#Self{
+	display: flex;
+	justify-content: center;
+}
+
