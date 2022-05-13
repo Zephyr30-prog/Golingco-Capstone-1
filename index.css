@@ -8,7 +8,7 @@ body{
 	background: linear-gradient(-45deg, #177E89, #598381, #8E936D, #A2AD59);
 	position: relative;
 	animation: change 10s ease-in-out infinite;
-
+	overflow: ;
 }
 @keyframes change {
 	0%{
@@ -78,9 +78,8 @@ footer{
 	background-color: 5px solid black;
 
 }
-html{
-	display: inline-block;
-	
+div > #content{
 
 }
+
 
