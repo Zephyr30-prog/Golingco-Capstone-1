@@ -78,8 +78,8 @@ footer{
 	background-color: 5px solid black;
 
 }
-div > #content{
-
+footer{
+	background:linear-gradient(-45deg, #177E89, #598381, #8E936D, #A2AD59) ;
 }
 
 
